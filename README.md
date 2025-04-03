@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Juan, sou estudante de Engenharia de Software e apaixonado por Tecnologia da Informação. Ao longo da minha trajetória acadêmica e profissional, desenvolvi uma sólida base de conhecimentos e habilidades práticas, com foco em desenvolvimento de software e areas afins .
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-victor-cruz-almeida-1ab57724a/) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-almeida-1ab57724a/) 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 ### 🤖 Linguagens e Tecnologias
